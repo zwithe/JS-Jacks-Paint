@@ -1,4 +1,6 @@
- 
+body{
+  font-family: 'Zen Kaku Gothic Antique', sans-serif;
+ }
  .dim{
     opacity: 0.1555;
   }
@@ -22,12 +24,18 @@
     float: left
   }
 
-  .price{
-    font: 140px Arial, sans-serif; 
+  #color-price{
+    font-size: 1em; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
   }
 
-  .ppgLabel{
-    font: 50px Arial, sans-serif; 
+  #color-name{
+    font-size: 1.5em; 
+  }
+
+  #paint-info-container {
+    height: 5.5em;
   }
 
   
