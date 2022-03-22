@@ -1,5 +1,6 @@
 function configureListeners() {
-    var images = // select img elements  
+    let images = // select img elements  
+
 
      for (var i = 0; i < images.length; i++) {        
         // iterate over images and add mouseover event listeners      
